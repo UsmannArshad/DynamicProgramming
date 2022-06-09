@@ -1,0 +1,15 @@
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\bin\Debug\net6.0\ParanthesisMatcher.exe
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\bin\Debug\net6.0\ParanthesisMatcher.deps.json
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\bin\Debug\net6.0\ParanthesisMatcher.runtimeconfig.json
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\bin\Debug\net6.0\ParanthesisMatcher.dll
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\bin\Debug\net6.0\ParanthesisMatcher.pdb
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.csproj.AssemblyReference.cache
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.AssemblyInfoInputs.cache
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.AssemblyInfo.cs
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.csproj.CoreCompileInputs.cache
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.dll
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\refint\ParanthesisMatcher.dll
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.pdb
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ParanthesisMatcher.genruntimeconfig.cache
+D:\Dynamic Programming\Paranthesis Matcher\ParanthesisMatcher\ParanthesisMatcher\obj\Debug\net6.0\ref\ParanthesisMatcher.dll

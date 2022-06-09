@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParanthesisMatcher", "ParanthesisMatcher\ParanthesisMatcher.csproj", "{883E5DFB-FD83-44B7-9392-B711EF0B4A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883E5DFB-FD83-44B7-9392-B711EF0B4A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883E5DFB-FD83-44B7-9392-B711EF0B4A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883E5DFB-FD83-44B7-9392-B711EF0B4A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883E5DFB-FD83-44B7-9392-B711EF0B4A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3617EACF-88CA-462F-96E7-02CD0B0C6651}
+	EndGlobalSection
+EndGlobal
